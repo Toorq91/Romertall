@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Skriv inn et romertall mellom I og L (eller skriv 'avslutt' for å avslutte):");
+        Console.WriteLine("Skriv inn et romertall mellom I og LXXX (eller skriv 'avslutt' for å avslutte):");
 
         while (true)
         {
